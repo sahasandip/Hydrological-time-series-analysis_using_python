@@ -11,7 +11,7 @@
 Get ready by cloning the repository:
 
 ```
-git clone https://github.com/sahasandip/Final-project.git
+git clone https://github.com/sahasandip/Arafa_Saha.git
 ```
 ## Theory
 An autoregressive integrated moving average(ARIMA) is a statistical analysis model that uses time series data 
