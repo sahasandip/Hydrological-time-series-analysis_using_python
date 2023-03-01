@@ -29,7 +29,7 @@ Link: (https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average), 
 ## Abfluss (Flow data) data
 The daily water level at Hofkirchen station, are available from 19.11.2021  to 24.01.2022 in the form of `.csv` files in
 `my_data` folder. Folder link(https://github.com/sahasandip/Arafa_Saha/tree/main/my_data). The data is downloded from the link (https://www.bafg.de/DE/Home/homepage_node.html)
-The name of the file is set according to the dates, for example: 01.01.2022.csv. Each file contains water level data (mÂ³/s) at 15 mins interval.
+The name of the file is set according to the dates, for example: 01.01.2022.csv. Each file contains water level data (m³/s) at 15 mins interval.
 Missing values are written as XXX. The data has header.
 
 ## _File list:_
